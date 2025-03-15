@@ -54,5 +54,5 @@ Para clonar e contribuir, acesse:
 [Repositório no GitHub](<URL_DO_REPOSITORIO>)
 
 ## Autor
-Desenvolvido por [Seu Nome]
+Desenvolvido por Thales Augusto.
 
